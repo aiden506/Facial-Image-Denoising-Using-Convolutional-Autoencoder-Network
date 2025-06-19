@@ -29,10 +29,9 @@ N. M. Tun, A. I. Gavrilov and N. L. Tun, "Facial Image Denoising Using Convoluti
 
 ---
 
-## 🔧 Setup & Usage
+## 💡 Key Contributions
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/Facial-Image-Denoising-Using-Convolutional-Autoencoder-Network.git
-   cd Facial-Image-Denoising-Using-Convolutional-Autoencoder-Network
-
+- Implements a convolutional autoencoder architecture for facial image denoising  
+- Trained and validated on the ORL face database  
+- Demonstrates significant improvement in image clarity under noisy conditions  
+- Designed as a preprocessing stage for face recognition systems
